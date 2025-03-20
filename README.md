@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pablo Terán</h1>
 <h3 align="center">💻 Full Stack Developer transitioning from integrated systems management to software development. 🚀 Skilled in problem-solving, attention to detail, and adaptability, with expertise in Frontend and Backend technologies. 🤖 Passionate about technology and continuous learning, aiming to deliver innovative and efficient solutions. ✨</h3>
 
-- 🔭 I’m currently working on **developing my Python skills through code challenges**
+- 🔭 I’m currently working on **Deep Dive Into Python** 
 
 - 👯 I’m looking to collaborate on **new development projects**
 
 - 🤝 I’m looking for help with **learning more about IA technologies**
 
-- 📝 I regularly write articles on [Suscribirte en LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7147066029213417472](Suscribirte en LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7147066029213417472)
+- 📝 I regularly write articles on LinkedIn https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7147066029213417472
 
 - 📫 How to reach me **pablo_teran5@hotmail.com**
 
